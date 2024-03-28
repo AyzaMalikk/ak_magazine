@@ -27,9 +27,13 @@ body {
   width: 68.33333% !important;
 }
 
-#aboutUs {
+#aboutUs span{
+  color: #F73859;
+}
+#aboutUs a {
   color: rgb(255, 255, 255);
 }
+
 
 #page {
   position: relative;

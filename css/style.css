@@ -20,7 +20,12 @@ body {
 }
 
 .col-xs-2 {
-width: 32.66667% !important;
+  width: 28.66667% !important
+}
+
+.col-xs-10 {
+  width: 68.33333% !important;
+
 }
 
 #aboutUs {

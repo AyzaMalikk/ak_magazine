@@ -19,6 +19,10 @@ body {
   background: #e6e6e6;
 }
 
+.col-xs-2 {
+width: 32.66667%;
+}
+
 #aboutUs {
   color: rgb(255, 255, 255);
 }

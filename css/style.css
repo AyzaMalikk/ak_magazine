@@ -332,7 +332,9 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(203, 184, 157, 0.2);
 }
 #contactForm .entry-img {
-  background: rgba(203, 184, 157, 0.2)
+  background: rgba(203, 184, 157, 0.2);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .gtco-cover > .gtco-container {
   position: relative;

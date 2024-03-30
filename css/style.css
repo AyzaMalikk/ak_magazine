@@ -331,6 +331,9 @@ h1, h2, h3, h4, h5, h6, figure {
   right: 0;
   background: rgba(203, 184, 157, 0.2);
 }
+#contactForm{
+  background: rgba(203, 184, 157, 0.2)
+}
 .gtco-cover > .gtco-container {
   position: relative;
   z-index: 10;

@@ -733,9 +733,9 @@ figure figcaption {
     width: 100% !important;
   }
 }
-.entry.full .post-meta {
+/* .entry.full .post-meta {
   margin-left: 50%;
-}
+} */
 @media screen and (max-width: 768px) {
   .entry.full .post-meta {
     margin-left: 0px;

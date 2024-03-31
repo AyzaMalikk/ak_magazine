@@ -717,7 +717,10 @@ figure figcaption {
 @media screen and (max-width: 768px) {
   .entry.full .entry-img {
     display: block;
+    background-size: contain;
+    height: 410px;
     width: 100%;
+    min-height: 340px;
   }
 }
 .entry.full .entry-desc {

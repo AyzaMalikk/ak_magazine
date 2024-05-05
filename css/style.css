@@ -1523,12 +1523,12 @@ figure figcaption {
 }
 @media screen and (max-width: 480px) {
 
-.gtco-cover .display-tc .issue1{
+.display-tc.animate-box.issue1.fadeInUp.animated-fast{
       margin-top: 400px !important;
       position: absolute !important;
   }
 
- .issue1 h1{
+ .issue1 h1.mb30{
     margin-bottom: 0px !important;
   }
 

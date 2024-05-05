@@ -1522,6 +1522,20 @@ figure figcaption {
   bottom: 0;
 }
 @media screen and (max-width: 480px) {
+
+  #gtco-header .display-tc, #gtco-counter .display-tc, .gtco-cover .display-tc{
+      margin-top: 400px;
+      position: absolute;
+  }
+
+  .display-tc h1{
+    margin-bottom: 0px;
+  }
+
+  .mt-negative {
+    top: -6em;
+}
+  
   .project-content .col-half .project, .project-content .col-half .project-grid {
     height: 340px !important;
     margin-bottom: 20px;

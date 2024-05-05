@@ -1523,16 +1523,16 @@ figure figcaption {
 }
 @media screen and (max-width: 480px) {
 
-  #gtco-header .display-tc, #gtco-counter .display-tc, .gtco-cover .display-tc{
+  #gtco-header .display-tc, #gtco-counter .display-tc, .gtco-cover .display-tc .issue1{
       margin-top: 400px !important;
       position: absolute !important;
   }
 
-  .display-tc h1{
+  .display-tc .issue1 h1{
     margin-bottom: 0px !important;
   }
 
-  .mt-negative {
+  .issue1_mt{
     top: -6em !important;
 }
   

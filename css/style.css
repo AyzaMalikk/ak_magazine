@@ -1523,12 +1523,12 @@ figure figcaption {
 }
 @media screen and (max-width: 480px) {
 
-.display-tc .issue1{
+.gtco-cover .display-tc .issue1{
       margin-top: 400px !important;
       position: absolute !important;
   }
 
-  .display-tc .issue1 h1{
+ .issue1 h1{
     margin-bottom: 0px !important;
   }
 
